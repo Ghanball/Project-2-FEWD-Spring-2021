@@ -1,0 +1,33 @@
+.FlexHead { display: flex;justify-content: space-evenly;}
+
+.FlexHead {font-weight: 900; background-color:lightgrey; margin: 5px; padding: 5px; font-size: 15px; font-style: bold; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
+#DivHead { border: 5px solid black; width: 92%; padding: 3px 2px,px 20px; margin: 30px 20px 10px; display: flex; }
+
+
+.Head  {font-style: oblique; font-size: 300%; color: midnightblue; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; text-align: center; }
+#Head2 {font-style: oblique; font-size: 150%; text-align: center;}
+#Head1 {display: block; margin-left: auto; margin-right: auto; width: 50%;}
+#Head3 {font-style: bold; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; text-align: justify;}
+h1     {font-style: oblique; font-size: 200%; color: midnightblue; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; text-align: center;}
+
+body { background-color: lightgoldenrodyellow;}
+
+#Jigga {display: block; margin-left: auto; margin-right: auto; width: 50%;}
+
+#JayBey {display: flex; flex-direction: row; flex-wrap: wrap;}
+#JayBey > div {margin: 10px; padding: 20px; justify-items: center; align-content: center; justify-content: space-evenly;}
+
+.Border1 {border: 10px solid; display: flex ; background-color: lightblue;}
+.Disco { color: midnightblue; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; text-align: center; font-size: 150%;}
+
+.Images {display: flex; flex-direction: row; flex-wrap: wrap;}
+.Images > div {margin: 10px; padding: 20px; justify-content: center;align-content: center;}
+
+iframe {width: 1500px; height: 400px; justify-content: center;}
+
+#EmailSection {display: flex; justify-content: center; justify-content: space-around;}
+#EmailSection > div {font-display: initial; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;text-align: center; font-size: 150%; flex-direction: row;}
+
+#Terms { font-size: 15px; margin-top: 18px; font-weight: normal; text-align: center; }
+
